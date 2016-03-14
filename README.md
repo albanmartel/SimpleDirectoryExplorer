@@ -13,9 +13,12 @@ You need Python3 and PyQt5 installed on your machine
 
 
 # Run module
-Windows
+**Windows :**
+
 click on perform.sh
 
-Linux :
+**Linux :**
+
 make script perfom.sh executable shell 
+
 Click on perform.sh

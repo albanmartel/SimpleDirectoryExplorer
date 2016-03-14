@@ -28,4 +28,4 @@ UIExplorateurRepertoire.py was generated with "pyuic5" from ExplorateurRepertoir
 ExplorateurRepertoire_Control.py was written with "idle" a python programming environment
 
 # TODO
-  allow exploration of all the visible disk in the workstation
+  allow exploration of all visible disks in workstation

@@ -9,4 +9,13 @@ UIExplorateurRepertoire.py was generated with "pyuic5" from ExplorateurRepertoir
 
 # Installation
 
-You need Python 3 and PyQt5 installed on your machine
+You need Python3 and PyQt5 installed on your machine
+
+
+# Run module
+Windows
+click on perform.sh
+
+Linux :
+make script perfom.sh executable shell 
+Click on perform.sh

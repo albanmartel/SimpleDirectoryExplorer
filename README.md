@@ -1,12 +1,6 @@
 # SimpleDirectoryExplorer
 This python module is a simple directory browser based on the framework pyqt5
 
-ExplorateurRepertoire.ui was created with Qt Designer and Qt Creator
-
-UIExplorateurRepertoire.py was generated with "pyuic5" from ExplorateurRepertoire.ui
-
-"pyuic5" is generating Qt graphics python modules from xml files. 
-
 # Installation
 
 You need Python3 and PyQt5 installed on your machine
@@ -22,3 +16,13 @@ click on perform.sh
 make script perfom.sh executable shell 
 
 Click on perform.sh
+
+# how were creating modules
+
+ExplorateurRepertoire.ui was created with Qt Designer and Qt Creator
+
+UIExplorateurRepertoire.py was generated with "pyuic5" from ExplorateurRepertoire.ui
+
+"pyuic5" is generating Qt graphics python modules from xml files. 
+
+ExplorateurRepertoire_Control.py was written with "idle" a python programming environment

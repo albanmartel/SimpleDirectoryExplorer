@@ -26,3 +26,6 @@ UIExplorateurRepertoire.py was generated with "pyuic5" from ExplorateurRepertoir
 "pyuic5" is generating Qt graphics python modules from xml files. 
 
 ExplorateurRepertoire_Control.py was written with "idle" a python programming environment
+
+# TODO
+  allow exploration of all the visible disk in the workstation
